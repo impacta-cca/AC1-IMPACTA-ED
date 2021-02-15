@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import arranjo.Arranjo;
 
-class testeAC1ED {
+class ArranjoTest {
 	Arranjo a = new Arranjo();
 	
 	@Test
